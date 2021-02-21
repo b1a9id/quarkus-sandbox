@@ -1,4 +1,4 @@
-package com.b1a9idps;
+package com.b1a9idps.resource;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;

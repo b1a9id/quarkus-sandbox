@@ -1,5 +1,6 @@
 package com.b1a9idps;
 
+import com.b1a9idps.resource.ExampleResourceTest;
 import io.quarkus.test.junit.NativeImageTest;
 
 @NativeImageTest
