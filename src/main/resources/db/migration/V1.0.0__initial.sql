@@ -1,5 +1,5 @@
 CREATE TABLE `user` (
-    id integer not null auto_increment,
+    id bigint not null auto_increment,
     name varchar(50) not null,
     gender varchar(20),
     birthday datetime,
